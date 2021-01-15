@@ -1,10 +1,3 @@
-# PROJECT 4
-#
-# Emily Curcio
-# Koushik Manjunath
-# Xiumin (Echo) Sun
-# Zhanfeng (Jeffrey) Zhao
-
 # This is a Shiny web application. You can run the application by clicking
 # the 'Run App' button above.
 
